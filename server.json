@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de software",
+      "type": "income",
+      "category": "Venda",
+      "amount": 14000,
+      "createdAt": "2023-01-01T13:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "amount": 50,
+      "createdAt": "2023-01-03T18:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "amount": 1500,
+      "createdAt": "2023-01-04T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Website",
+      "type": "income",
+      "category": "Venda",
+      "amount": 5000,
+      "createdAt": "2023-01-05T12:00:00.000Z"
+    },
+    {
+      "description": "Testando agora",
+      "amount": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-15T04:11:38.949Z",
+      "id": 5
+    },
+    {
+      "description": "Varanda",
+      "type": "outcome",
+      "category": "Alimentação",
+      "amount": 69,
+      "createdAt": "2023-01-15T04:30:42.919Z",
+      "id": 6
+    },
+    {
+      "description": "Campeiro assados",
+      "type": "outcome",
+      "category": "Alimentação",
+      "amount": 38,
+      "createdAt": "2023-01-15T04:37:33.596Z",
+      "id": 7
+    },
+    {
+      "description": "Moto",
+      "type": "income",
+      "category": "Venda",
+      "amount": 10000,
+      "createdAt": "2023-01-15T04:37:53.700Z",
+      "id": 8
+    }
+  ]
+}
